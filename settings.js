@@ -21,30 +21,30 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
-global.footer = 'Xeon Bot Inc.'
-global.ig = 'https://github.com/DGXeon'
-global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
+global.owner = ['6282132156123']
+global.premium = ['6282132156123']
+global.ownernomer = '6282132156123'
+global.ownername = 'kevinn'
+global.botname = 'Botvin'
+global.footer = 'Kevin offc.'
+global.ig = 'https://github.com/kevinafsar'
+global.region = 'Jepang, Tokyo, -'
+global.sc = 'Dari chemesbot'
 global.myweb = 'https://youtu.be/imFIX-Wrt3s'
-global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
+global.packname = 'Kevin afsar'
+global.author = 'kevin afsar'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    admin: 'Fiture ini khusus Admin!',
+    botAdmin: 'Bot harus Admin lah',
+    owner: 'Fiture Khusus *Kevin ganteng*',
+    group: 'Fiture Khusus di Group!',
+    private: 'Fiture Khusus Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'In Process...',
+    wait: 'Process...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
